@@ -1,0 +1,9 @@
+:root {
+	--background: white;
+	--foreground: black;
+
+	--font-family: "Arial";
+	--font-size: 16px;
+
+	--padding: 0.5em;
+}
